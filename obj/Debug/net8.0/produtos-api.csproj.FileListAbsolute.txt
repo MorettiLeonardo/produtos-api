@@ -130,5 +130,5 @@ C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\refint\produtos-api.dll
 C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\produtos-api.pdb
 C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\produtos-api.genruntimeconfig.cache
 C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\ref\produtos-api.dll
-C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\produtos-api.sourcelink.json
+C:\Users\TLM\source\repos\produtos-api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -10,5 +10,7 @@ namespace WebApplication1.Data
         }
 
         public DbSet<Produto> Produtos { get; set; }
+
+        public DbSet<User> Users { get; set; }
     }
 }
