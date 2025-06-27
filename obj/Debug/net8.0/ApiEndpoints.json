@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "produtos_api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/conta/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginUser",
+        "Type": "produtos_api.Models.LoginUserViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "produtos_api.Controllers.AuthController",
+    "Method": "Registrar",
+    "RelativePath": "api/conta/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regiterUser",
+        "Type": "produtos_api.Models.RegisterUserViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplication1.Controllers.ProdutosController",
     "Method": "GetProdutos",
     "RelativePath": "api/produtos",
